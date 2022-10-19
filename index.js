@@ -5,7 +5,7 @@ const connect = require("./database/connect_db");
 const ProductModel = require("./models/product.model");
 const app = express();
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
