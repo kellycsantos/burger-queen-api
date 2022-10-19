@@ -1,0 +1,1045 @@
+[
+  {
+    "name": "bk original",
+    "category": "burger",
+    "description": "Pão de brioche, maionese temperada, cebola salteada, 2 fatias de queijo, carne alta e suculenta (120g).",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "cebola",
+      "maionese verde bk"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/bk-original.png",
+    "nutricionalTable": {
+      "calories": "714",
+      "proteins": "39",
+      "carbs": "32",
+      "fat": "50",
+      "saturatedFat": "21",
+      "transFat": "0",
+      "sodium": "811"
+    }
+  },
+  {
+    "name": "whopper® paleta suína",
+    "category": "burger",
+    "description": "O pão com gergelim do WHOPPER®, nossa maionese de fabricação própria, alface e tomate cortados na hora, aquela nossa cebola crocante como toda Onion Rings deve ser, junto do nosso delicioso molho Furioso, queijo e a grande novidade: um hambúrguer feito com 100% carne de paleta suína com aroma de costela, sem qualquer ingrediente artificial.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "cebola",
+      "maionese verde bk"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-costela.png",
+    "nutricionalTable": {
+      "calories": "714",
+      "proteins": "39",
+      "carbs": "32",
+      "fat": "50",
+      "saturatedFat": "21",
+      "transFat": "0",
+      "sodium": "811"
+    }
+  },
+  {
+    "name": "WHOPPER® Duplo",
+    "category": "burger",
+    "description": "Pão com gergelim, dois suculentos hambúrgueres de pura carne bovina, duas fatias de queijo derretido, quatro fatias de picles, alface, tomate, cebola, maionese e ketchup. Todos esses ingredientes são cuidadosamente armazenados e preparados, para você se deliciar com um sanduíche fresquinho e de alta qualidade.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "picles",
+      "alface",
+      "tomate",
+      "cebola",
+      "maionese bk®",
+      "ketchup"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-duplo.png",
+    "nutricionalTable": {
+      "calories": "1000",
+      "proteins": "64",
+      "carbs": "54",
+      "fat": "59",
+      "saturatedFat": "27",
+      "transFat": "0",
+      "sodium": "1550"
+    }
+  },
+  {
+    "name": "whopper® rodeio",
+    "category": "burger",
+    "description": "Quanto mais, melhor. O nosso WHOPPER®, que você já conhece, com adição de onion rings e barbecue! Impossível resistir.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "onion rings",
+      "maionese bk®",
+      "tomate",
+      "alface",
+      "molho barbecue"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-rodeio.png",
+    "nutricionalTable": {
+      "calories": "960",
+      "proteins": "38",
+      "carbs": "64",
+      "fat": "61",
+      "saturatedFat": "21",
+      "transFat": "1",
+      "sodium": "1390"
+    }
+  },
+  {
+    "name": "whopper® furioso",
+    "category": "burger",
+    "description": "pão com gergelim, um suculento hambúrguer de pura carne bovina, queijo, bacon, alface, tomate, maionese, onion rings e um delicioso molho furioso.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "bacon",
+      "alface",
+      "tomate",
+      "maionese BK®",
+      "pimenta jalapeño",
+      "cebola",
+      "molho furioso"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-furioso.png",
+    "nutricionalTable": {
+      "calories": "840",
+      "proteins": "39",
+      "carbs": "59",
+      "fat": "42",
+      "saturatedFat": "18",
+      "transFat": "0",
+      "sodium": "2180"
+    }
+  },
+  {
+    "name": "whopper",
+    "category": "burger",
+    "description": "pão com gergelim, maionese, alface, tomate, cebola, ketchup, picles, queijo derretido e um suculento hambúrguer de pura carne bovina. Todos esses ingredientes são cuidadosamente armazenados e preparados, para você se deliciar com um sanduíche fresquinho e de alta qualidade.",
+    "ingredients": [
+      "alface",
+      "ketchup",
+      "cebola",
+      "hambúrguer",
+      "maionese BK®",
+      "pão",
+      "picles",
+      "queijo",
+      "tomate"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper.png",
+    "nutricionalTable": {
+      "calories": "680",
+      "proteins": "37",
+      "carbs": "54",
+      "fat": "35",
+      "saturatedFat": "19",
+      "transFat": "0",
+      "sodium": "1457"
+    }
+  },
+  {
+    "name": "WHOPPER® de Plantas",
+    "category": "burger",
+    "description": "Não dá nem pra notar a diferença: o mesmo sabor e textura da nossa carne de WHOPPER® grelhada no fogo, só que feito de plantas. Chegou o novo WHOPPER® de Plantas. 100% WHOPPER®, 0% Carne. Chama os migos e #PartiuBK. Este produto pode ter contato com proteína animal.",
+    "ingredients": [
+      "Vegetariano"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-de-plantas.png",
+    "nutricionalTable": {
+      "calories": "540",
+      "proteins": "23",
+      "carbs": "64",
+      "fat": "23",
+      "saturatedFat": "11",
+      "transFat": "2",
+      "sodium": "2010"
+    }
+  },
+  {
+    "name": "whooper® barbecue bacon",
+    "category": "burger",
+    "description": "Adicionamos no nosso WHOPPER® um delicioso molho barbecue e fatias super crocantes de bacon. Resultado: Perfeição!",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "bacon",
+      "cebola",
+      "tomate",
+      "picles",
+      "alface",
+      "molho barbecue"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/whopper-bbq-bacon.png",
+    "nutricionalTable": {
+      "calories": "850",
+      "proteins": "41",
+      "carbs": "43",
+      "fat": "57",
+      "saturatedFat": "21",
+      "transFat": "1",
+      "sodium": "1990"
+    }
+  },
+  {
+    "name": "stacker duplo bacon",
+    "category": "burger",
+    "description": "Dois saborosos hambúrgueres de pura carne bovina, queijo e 2 fatias de bacon, acompanhado do nosso saboroso molho Stacker em um pão macio com gergelim. É um exagero de sabor!",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "bacon",
+      "molho stacker"
+    ],
+    "image": "https://github.com/kellycsantos/image-base/blob/main/burger-queen-img/stacker-duplo-bacon.png",
+    "nutricionalTable": {
+      "calories": "1575",
+      "proteins": "18",
+      "carbs": "20",
+      "fat": "25",
+      "saturatedFat": "10",
+      "transFat": "0",
+      "sodium": "935"
+    }
+  },
+  {
+    "name": "mega stacker 2.0",
+    "category": "burger",
+    "description": "Duas deliciosas carnes grelhadas no fogo como churrasco, queijo derretido, bacon e molho Stacker.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "bacon",
+      "molho stacker"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/mega-stacker-2.png",
+    "nutricionalTable": {
+      "calories": "1100",
+      "proteins": "66",
+      "carbs": "43",
+      "fat": "73",
+      "saturatedFat": "33",
+      "transFat": "0",
+      "sodium": "1600"
+    }
+  },
+  {
+    "name": "mega stacker cheddar 2.0",
+    "category": "burger",
+    "description": "O Mega Stacker Cheddar voltou! Carne grelhada no fogo, bacon e muito queijo cheddar. Para encarar, não basta ter fome, tem que ter coragem! #PartiuBK.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "bacon",
+      "molho stacker"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/mega-stacker-cheddar-2.png",
+    "nutricionalTable": {
+      "calories": "1210",
+      "proteins": "73",
+      "carbs": "43",
+      "fat": "73",
+      "saturatedFat": "33",
+      "transFat": "0",
+      "sodium": "1700"
+    }
+  },
+  {
+    "name": "mega stacker atomico 2.0",
+    "category": "burger",
+    "description": "O Mega Stacker 2.0 que você já conhece, agora com queijo e bacon nas duas camadas. O que já era bom ficou ainda melhor!",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "bacon",
+      "molho stacker"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/maga-stacker-atomico-2.png",
+    "nutricionalTable": {
+      "calories": "1180",
+      "proteins": "68",
+      "carbs": "43",
+      "fat": "81",
+      "saturatedFat": "36",
+      "transFat": "0",
+      "sodium": "1790"
+    }
+  },
+  {
+    "name": "big king",
+    "category": "burger",
+    "description": "Dois deliciosos hambúrgueres grelhados no fogo como churrasco, queijo derretido e molho Big KingTM. Consulte os restaurantes Burger King® participantes no site.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "picles",
+      "cebola",
+      "alface",
+      "molho big king™️"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/big-king.png",
+    "nutricionalTable": {
+      "calories": "810",
+      "proteins": "35",
+      "carbs": "149",
+      "fat": "50",
+      "saturatedFat": "22",
+      "transFat": "1",
+      "sodium": "1170"
+    }
+  },
+  {
+    "name": "cheeseburger",
+    "category": "burger",
+    "description": "Pão com gergelim, um saboroso hambúrguer de pura carne bovina, uma fatia de queijo derretido, duas fatias de picles, ketchup e mostarda.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "picles",
+      "ketchup",
+      "mostarda"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/cheeseburger.png",
+    "nutricionalTable": {
+      "calories": "340",
+      "proteins": "21",
+      "carbs": "31",
+      "fat": "15",
+      "saturatedFat": "6",
+      "transFat": "1",
+      "sodium": "730"
+    }
+  },
+  {
+    "name": "cheddar",
+    "category": "burger",
+    "description": "Aquela maravilhosa combinação de pão integral com gergelim, cheddar cremoso, cebolas caramelizadas ao molho shoyu e hambúrguer de carne grelhado no fogo como churrasco. Tudo na medida perfeita da sua fome.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "cebola"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/cheddar.png",
+    "nutricionalTable": {
+      "calories": "320",
+      "proteins": "17",
+      "carbs": "28",
+      "fat": "15",
+      "saturatedFat": "7",
+      "transFat": "0",
+      "sodium": "560"
+    }
+  },
+  {
+    "name": "cheddar duplo",
+    "category": "burger",
+    "description": "Pão integral com gergelim, dois hambúrgueres grelhados, queijo cheddar cremoso e pedacinhos de cebolas defumadas.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "cebola"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/cheddar-duplo.png",
+    "nutricionalTable": {
+      "calories": "410",
+      "proteins": "20",
+      "carbs": "28",
+      "fat": "24",
+      "saturatedFat": "19",
+      "transFat": "1",
+      "sodium": "540"
+    }
+  },
+  {
+    "name": "rodeio",
+    "category": "burger",
+    "description": "hambúrguer grelhado no fogo como churrasco, queijo derretido, onion rings e molho barbecue. todos esses ingredientes são cuidadosamente armazenados e preparados para você se deliciar com um sanduíche fresquinho e de alta qualidade",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "onion rings",
+      "maionese bk®",
+      "molho barbecue"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/rodeio.png",
+    "nutricionalTable": {
+      "calories": "400",
+      "proteins": "18",
+      "carbs": "40",
+      "fat": "19",
+      "saturatedFat": "8",
+      "transFat": "0",
+      "sodium": "790"
+    }
+  },
+  {
+    "name": "rodeio duplo",
+    "category": "burger",
+    "description": "Dois deliciosos hambúrgueres grelhados no fogo como churrasco, queijo derretido, onion rings, molho barbecue e maionese BK®.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "onion rings",
+      "maionese bk®",
+      "molho barbecue"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/rodeio-duplo.png",
+    "nutricionalTable": {
+      "calories": "560",
+      "proteins": "19",
+      "carbs": "39",
+      "fat": "36",
+      "saturatedFat": "11",
+      "transFat": "0",
+      "sodium": "810"
+    }
+  },
+  {
+    "name": "kids burger",
+    "category": "kids",
+    "description": "Pão com gergelim, um saboroso hambúrguer de pura carne bovina, uma fatia de queijo derretido.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/kids-burger.png",
+    "nutricionalTable": {
+      "calories": "1181",
+      "proteins": "15",
+      "carbs": "27",
+      "fat": "13",
+      "saturatedFat": "7",
+      "transFat": "0",
+      "sodium": "445"
+    }
+  },
+  {
+    "name": "kids jr. combo",
+    "category": "kids",
+    "description": "Cada compra do Combo King Jr.™ do BURGER KING® dá direito a apenas um dos brinquedos disponíveis no estoque do respectivo restaurante. O brinquedo pode ser adquirido separadamente, conforme condições específicas de preço e quantidade. O valor do brinquedo já está incluso no preço do Combo King Jr.™ do BURGER KING®. A quantidade de brinquedos poderá variar de acordo com a disponibilidade de estoque em cada restaurante BURGER KING® participante.",
+    "ingredients": [
+      "pão",
+      "hambúrguer",
+      "queijo",
+      "batata",
+      "maçã",
+      "água"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/kids-burger-combo.png",
+    "nutricionalTable": {
+      "calories": "622",
+      "proteins": "19",
+      "carbs": "83",
+      "fat": "23",
+      "saturatedFat": "9",
+      "transFat": "0",
+      "sodium": "840"
+    }
+  },
+  {
+    "name": "natural one laranja",
+    "category": "drink",
+    "description": "Se você prefere uma opção mais saudável e 100% natural, nos restaurantes Burger King® você pode escolher o delicioso suco Natural One® de Laranja.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/natural-one-laranja.png",
+    "nutricionalTable": {
+      "calories": "130",
+      "proteins": "2",
+      "carbs": "30",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "natural one uva",
+    "category": "drink",
+    "description": "Se você prefere uma opção mais saudável e 100% natural, nos restaurantes Burger King® você pode escolher o delicioso suco Natural One® de Uva.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/natural-one-uva.png",
+    "nutricionalTable": {
+      "calories": "150",
+      "proteins": "0",
+      "carbs": "38",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "natural one maracuja",
+    "category": "drink",
+    "description": "Se você prefere uma opção mais saudável e 100% natural, nos restaurantes Burger King® você pode escolher o delicioso suco Natural One® de Maracujá. ",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/natural-one-maracuja.png",
+    "nutricionalTable": {
+      "calories": "150",
+      "proteins": "0",
+      "carbs": "38",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "pepsi",
+    "category": "drink",
+    "description": "Um refrigerante geladinho na medida certa para te refrescar e acompanhar seu sanduíche preferido. E o melhor: é free refill.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/pepsi.png",
+    "nutricionalTable": {
+      "calories": "90",
+      "proteins": "0",
+      "carbs": "22",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "pepsi twist",
+    "category": "drink",
+    "description": "Um refrigerante geladinho na medida certa para te refrescar e acompanhar seu sanduíche preferido. E o melhor: é free refill.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/pepsi-twist.png",
+    "nutricionalTable": {
+      "calories": "90",
+      "proteins": "0",
+      "carbs": "22",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "pepsi black",
+    "category": "drink",
+    "description": "Um refrigerante geladinho na medida certa para te refrescar e acompanhar seu sanduíche preferido. E o melhor: é free refill.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/pepsi-black.png",
+    "nutricionalTable": {
+      "calories": "0",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "guarana antárctica®",
+    "category": "drink",
+    "description": "Um refrigerante geladinho na medida certa para te refrescar e acompanhar seu sanduíche preferido. E o melhor: é free refill.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/guarana.png",
+    "nutricionalTable": {
+      "calories": "80",
+      "proteins": "0",
+      "carbs": "20",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "10"
+    }
+  },
+  {
+    "name": "guaraná antárctica® zero",
+    "category": "drink",
+    "description": "Um refrigerante geladinho na medida certa para te refrescar e acompanhar seu sanduíche preferido. E o melhor: é free refill.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/guarana-zero.png",
+    "nutricionalTable": {
+      "calories": "0",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "10"
+    }
+  },
+  {
+    "name": "h20 limao",
+    "category": "drink",
+    "description": "quer mais leveza no seu pedido? Sabor refrescante de H2OH!® Limão.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/h20-limao.png",
+    "nutricionalTable": {
+      "calories": "0",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "12"
+    }
+  },
+  {
+    "name": "lipton limão",
+    "category": "drink",
+    "description": "gelado e saboroso, uma escolha excelente para quem não quer ou não pode tomar refrigerantes e sucos. Essa versão vem no sabor: Limão. ",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/lipton-lim%C3%A3o.png",
+    "nutricionalTable": {
+      "calories": "70",
+      "proteins": "0",
+      "carbs": "19",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "20"
+    }
+  },
+  {
+    "name": "lipton pessego",
+    "category": "drink",
+    "description": "gelado e saboroso, uma escolha excelente para quem não quer ou não pode tomar refrigerantes e sucos. Essa versão vem no sabor: Pêssego.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/lipton-pessego.png",
+    "nutricionalTable": {
+      "calories": "269",
+      "proteins": "0",
+      "carbs": "16",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "13"
+    }
+  },
+  {
+    "name": "água de copo",
+    "category": "drink",
+    "description": "água de copo",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/agua-copo.png",
+    "nutricionalTable": {
+      "calories": "0",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "0"
+    }
+  },
+  {
+    "name": "batata frita",
+    "category": "side",
+    "description": "crocantes e irresistíveis, nossas batatas fritas podem vir no tamanho pequeno, médio e grande e são servidas sempre levemente salgadas. Estas delícias são o acompanhamento perfeito para o seu sanduíche perfeito",
+    "ingredients": [
+      "batata"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/batata-frita.png",
+    "nutricionalTable": {
+      "calories": "320",
+      "proteins": "5",
+      "carbs": "37",
+      "fat": "16",
+      "saturatedFat": "5",
+      "transFat": "0",
+      "sodium": "570"
+    }
+  },
+  {
+    "name": "balde de batata",
+    "category": "side",
+    "description": "nossas crocantes e irresistíveis batatas fritas agora na versão balde!",
+    "ingredients": [
+      ""
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/balde-batata.png",
+    "nutricionalTable": {
+      "calories": "778",
+      "proteins": "12",
+      "carbs": "92",
+      "fat": "40",
+      "saturatedFat": "12",
+      "transFat": "0",
+      "sodium": "1384"
+    }
+  },
+  {
+    "name": "batata suprema",
+    "category": "side",
+    "description": "aquela batatinha irresistível, que você já conhece, coberta com cheddar cremoso e pedacinhos de bacon. deliciosa do começo ao fim.",
+    "ingredients": [
+      "batata",
+      "queijo",
+      "bacon"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/batata-suprema.png",
+    "nutricionalTable": {
+      "calories": "600",
+      "proteins": "15",
+      "carbs": "59",
+      "fat": "33",
+      "saturatedFat": "11",
+      "transFat": "1",
+      "sodium": "540"
+    }
+  },
+  {
+    "name": "batata furiosa",
+    "category": "side",
+    "description": "já pensou em juntar aquela batata crocante, nosso exclusivo molho furioso e pedaços de bacon em uma coisa só? Isso existe! E se chama Batata Furiosa. Elas podem vir no tamanho grande ou individual. ",
+    "ingredients": [
+      "batata",
+      "bacon",
+      "molho furioso"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/batata-furiosa.png",
+    "nutricionalTable": {
+      "calories": "1150",
+      "proteins": "13",
+      "carbs": "118",
+      "fat": "53",
+      "saturatedFat": "13",
+      "transFat": "0",
+      "sodium": "1990"
+    }
+  },
+  {
+    "name": "onion rings",
+    "category": "side",
+    "description": "cebolas cortadas em forma de anéis, empanadas com uma leve camada de farinha de rosca já temperada e fritas em óleo bem quente. Estão sempre fresquinhas e crocantes. Você pode levá-las nas versões grande ou média, para acompanhar seu sanduíche ou até mesmo sua salada preferida. Têm um sabor único. Uma verdadeira delícia!",
+    "ingredients": [
+      "onion rings"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/96fca0e3d9f2664e059e2c5caec18287043711f1/burger-queen-img/onion-rings.png",
+    "nutricionalTable": {
+      "calories": "460",
+      "proteins": "7",
+      "carbs": "52",
+      "fat": "24",
+      "saturatedFat": "6",
+      "transFat": "0",
+      "sodium": "810"
+    }
+  },
+  {
+    "name": "bk chicken",
+    "category": "side",
+    "description": "pedaços de frango empanados, sempre crocantes e com tempero suave. Com 10, 06 ou 04 unidades e nossos molhos especiais, o seu pedido fica ainda mais gostoso.",
+    "ingredients": [
+      "frango"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/bk-chicken.png",
+    "nutricionalTable": {
+      "calories": "480",
+      "proteins": "30",
+      "carbs": "31",
+      "fat": "26",
+      "saturatedFat": "8",
+      "transFat": "0",
+      "sodium": "880"
+    }
+  },
+  {
+    "name": "trio supremo",
+    "category": "side",
+    "description": "pra que escolher um só, se você pode ter todos? Batata frita com cheddar e bacon crocante, BK® Chicken e Onion Rings. E eles podem vir no tamanho grande ou individual.",
+    "ingredients": [
+      "batata",
+      "queijo",
+      "bacon",
+      "frango",
+      "onion rings"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/trio-supremo.png",
+    "nutricionalTable": {
+      "calories": "1150",
+      "proteins": "13",
+      "carbs": "118",
+      "fat": "53",
+      "saturatedFat": "13",
+      "transFat": "0",
+      "sodium": "1990"
+    }
+  },
+  {
+    "name": "trio furioso",
+    "category": "side",
+    "description": "pra que escolher um só, se você pode ter todos? Batata frita com cheddar e bacon crocante, BK® Chicken e Onion Rings com Molho Furioso.",
+    "ingredients": [
+      "batata",
+      "queijo",
+      "bacon",
+      "frango",
+      "onion rings",
+      "molho furioso"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/trio-furioso.png",
+    "nutricionalTable": {
+      "calories": "840",
+      "proteins": "26",
+      "carbs": "84",
+      "fat": "44",
+      "saturatedFat": "12",
+      "transFat": "0",
+      "sodium": "1390"
+    }
+  },
+  {
+    "name": "sachê maionese",
+    "category": "side",
+    "description": "sachê de Maionese BK®.",
+    "ingredients": [
+      "Maionese BK®"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/sache-maionese.png",
+    "nutricionalTable": {
+      "calories": "527",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "14",
+      "saturatedFat": "2",
+      "transFat": "0",
+      "sodium": "118"
+    }
+  },
+  {
+    "name": "sachê de baconese",
+    "category": "side",
+    "description": "sachê de baconese, irresistível!",
+    "ingredients": [
+      "bacon",
+      "maionese bk®"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/sache-baconese.png",
+    "nutricionalTable": {
+      "calories": "540",
+      "proteins": "0",
+      "carbs": "0",
+      "fat": "14",
+      "saturatedFat": "2",
+      "transFat": "0",
+      "sodium": "133"
+    }
+  },
+  {
+    "name": "molho barbecue",
+    "category": "side",
+    "description": "Delicioso molho no sabor Barbecue.",
+    "ingredients": [
+      "molho barbecue"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/blister-bbq.png",
+    "nutricionalTable": {
+      "calories": "128",
+      "proteins": "0",
+      "carbs": "7",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "257"
+    }
+  },
+  {
+    "name": "molho_furioso",
+    "category": "side",
+    "description": "Delicioso molho sabor Furioso.",
+    "ingredients": [
+      "molho furioso"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/blister-furioso.png",
+    "nutricionalTable": {
+      "calories": "195",
+      "proteins": "0",
+      "carbs": "11",
+      "fat": "0",
+      "saturatedFat": "0",
+      "transFat": "0",
+      "sodium": "257"
+    }
+  },
+  {
+    "name": "casquinha de baunilha",
+    "category": "dessert",
+    "description": "deliciosa sobremesa servida numa casquinha muuuito crocante, sabor baunilha.",
+    "ingredients": [
+      "massa de baunilha"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/casquinha-baunilha.png",
+    "nutricionalTable": {
+      "calories": "168",
+      "proteins": "4",
+      "carbs": "25",
+      "fat": "5",
+      "saturatedFat": "3",
+      "transFat": "0",
+      "sodium": "129"
+    }
+  },
+  {
+    "name": "casquinha mista",
+    "category": "dessert",
+    "description": "deliciosa sobremesa servida numa casquinha muuuito crocante, sabor mista.",
+    "ingredients": [
+      "massa mista"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/casquinha-mista.png",
+    "nutricionalTable": {
+      "calories": "193",
+      "proteins": "3",
+      "carbs": "32",
+      "fat": "6",
+      "saturatedFat": "3",
+      "transFat": "0",
+      "sodium": "126"
+    }
+  },
+  {
+    "name": "casquinha de doce de leite",
+    "category": "dessert",
+    "description": "deliciosa sobremesa servida numa casquinha muuuito crocante, sabor doce de leite.",
+    "ingredients": [
+      "massa de doce de leite"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/casquinha-doce-de-leite.png",
+    "nutricionalTable": {
+      "calories": "203",
+      "proteins": "2",
+      "carbs": "37",
+      "fat": "5",
+      "saturatedFat": "3",
+      "transFat": "0",
+      "sodium": "112"
+    }
+  },
+  {
+    "name": "casquinha recheada de chocolate",
+    "category": "dessert",
+    "description": "uma sobremesa deliciosa, com a casquinha recheada de chocolate.",
+    "ingredients": [
+      "massa",
+      "calda"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/casquinha-recheada-chocolate.png",
+    "nutricionalTable": {
+      "calories": "338",
+      "proteins": "6",
+      "carbs": "44",
+      "fat": "16",
+      "saturatedFat": "6",
+      "transFat": "0",
+      "sodium": "130"
+    }
+  },
+  {
+    "name": "casquinha recheada de ovomaltine",
+    "category": "dessert",
+    "description": "uma sobremesa deliciosa, com a casquinha recheada de ovomaltine.",
+    "ingredients": [],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/casquinha-recheda-ovomaltine.png",
+    "nutricionalTable": {
+      "calories": "338",
+      "proteins": "6",
+      "carbs": "44",
+      "fat": "16",
+      "saturatedFat": "6",
+      "transFat": "0",
+      "sodium": "130"
+    }
+  },
+  {
+    "name": "balde de doce de leite",
+    "category": "dessert",
+    "description": "o balde é o favorito de todos. feito para compartilhar com todo mundo, esta versão vem no sabor doce de leite.",
+    "ingredients": [
+      "massa",
+      "calda"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/balde-doce-de-leite.png",
+    "nutricionalTable": {
+      "calories": "787",
+      "proteins": "14",
+      "carbs": "127",
+      "fat": "25",
+      "saturatedFat": "16",
+      "transFat": "0",
+      "sodium": "593"
+    }
+  },
+  {
+    "name": "balde de chocolate",
+    "category": "dessert",
+    "description": "o balde é o favorito de todos. feito para compartilhar com todo mundo, esta versão vem no sabor chocolate.",
+    "ingredients": [
+      "massa",
+      "calda"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/balde-chocolate.png",
+    "nutricionalTable": {
+      "calories": "743",
+      "proteins": "11",
+      "carbs": "116",
+      "fat": "26",
+      "saturatedFat": "16",
+      "transFat": "0",
+      "sodium": "568"
+    }
+  },
+  {
+    "name": "balde de morango",
+    "category": "dessert",
+    "description": "o balde é o favorito de todos. feito para compartilhar com todo mundo, esta versão vem no sabor morango.",
+    "ingredients": [
+      "massa",
+      "calda"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/balde-morango.png",
+    "nutricionalTable": {
+      "calories": "419",
+      "proteins": "9",
+      "carbs": "41",
+      "fat": "23",
+      "saturatedFat": "6",
+      "transFat": "0",
+      "sodium": "139"
+    }
+  },
+  {
+    "name": "brownie com brigadeiro de chocolate",
+    "category": "dessert",
+    "description": "delicioso brownie recheado de brigadeiro de chocolate",
+    "ingredients": [
+      "brownie"
+    ],
+    "image": "https://raw.githubusercontent.com/kellycsantos/image-base/main/burger-queen-img/brownie-chocolate.png",
+    "nutricionalTable": {
+      "calories": "787",
+      "proteins": "3",
+      "carbs": "23",
+      "fat": "9",
+      "saturatedFat": "5",
+      "transFat": "0",
+      "sodium": "23"
+    }
+  }
+]
