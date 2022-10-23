@@ -15,19 +15,35 @@ app.use(
     methods: ["GET", "PUT", "POST", "DELETE"],
   })
 );
-
 app.get("/", async (req, res) => {
   const product = await ProductModel.find({});
   res.status(201).json(product);
 });
 
-app.post("/addnew", async (req, res) => {
-  try {
-    const product = await ProductModel.create(req.body);
-    res.status(201).json(product);
-  } catch (error) {
-    console.log("erro");
-  }
+app.get("/name/:flavor", async (req, res) => {
+  const regex = new RegExp(req.params.flavor, "i");
+  const product = await ProductModel.find({ name: { $regex: regex } });
+  res.status(201).json(product);
+});
+
+app.get("/drink", async (req, res) => {
+  const product = await ProductModel.find({ category: "drink" });
+  res.status(201).json(product);
+});
+
+app.get("/burger", async (req, res) => {
+  const product = await ProductModel.find({ category: "burger" });
+  res.status(201).json(product);
+});
+
+app.get("/dessert", async (req, res) => {
+  const product = await ProductModel.find({ category: "dessert" });
+  res.status(201).json(product);
+});
+
+app.get("/side", async (req, res) => {
+  const product = await ProductModel.find({ category: "side" });
+  res.status(201).json(product);
 });
 
 connect();
